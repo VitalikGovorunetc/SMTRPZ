@@ -1,0 +1,6 @@
+/home/vitalii/Downloads/ProjectsRider/Lab1/TRPZ_Lab/bin/Debug/TRPZ_Lab.exe
+/home/vitalii/Downloads/ProjectsRider/Lab1/TRPZ_Lab/bin/Debug/TRPZ_Lab.pdb
+/home/vitalii/Downloads/ProjectsRider/Lab1/TRPZ_Lab/obj/Debug/TRPZ_Lab.csprojAssemblyReference.cache
+/home/vitalii/Downloads/ProjectsRider/Lab1/TRPZ_Lab/obj/Debug/TRPZ_Lab.csproj.CoreCompileInputs.cache
+/home/vitalii/Downloads/ProjectsRider/Lab1/TRPZ_Lab/obj/Debug/TRPZ_Lab.exe
+/home/vitalii/Downloads/ProjectsRider/Lab1/TRPZ_Lab/obj/Debug/TRPZ_Lab.pdb
